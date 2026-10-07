@@ -249,3 +249,6 @@ WHERE id NOT IN (
         WHERE p.plan_name = 'VIP'
     )
 );
+
+// I used some AI questions
+
